@@ -1,8 +1,9 @@
-#Fundamentos de Programação
+# 📘 Fundamentos de Programação  
 
-Claudino José Martins
-Licenciatura em Engenharia Informática
-N.º mecanográfico: 127358
+**👨‍🎓 Nome:** Claudino José Martins  
+**🎓 Curso:** Licenciatura em Engenharia Informática  
+**🆔 N.º mecanográfico:** 127358  
 
-📘 Unidade Curricular: Fundamentos de Programação
-✅ Resultado: Aprovado com 17 valores
+---
+
+✅ **Resultado:** Aprovado em Época Especial com **17 valores**  
