@@ -1,0 +1,36 @@
+Ranking: 1238, Clube: Académica, Score atual: 1322
+Ranking: 845, Clube: Arouca, Score atual: 1367
+Ranking: 1027, Clube: Beira-Mar, Score atual: 1343
+Ranking: 908, Clube: Belenenses, Score atual: 1358
+Ranking: 19, Clube: Benfica, Score atual: 1797
+Ranking: 458, Clube: Boavista, Score atual: 1444
+Ranking: 458, Clube: Boavista, Score atual: 1444
+Ranking: 75, Clube: Braga, Score atual: 1655
+Ranking: 1864, Clube: CD das Aves, Score atual: 1266
+Ranking: 400, Clube: CD Santa Clara, Score atual: 1460
+Ranking: 721, Clube: Chaves, Score atual: 1389
+Ranking: 564, Clube: CS Marítimo Madeira, Score atual: 1421
+Ranking: 632, Clube: Estoril, Score atual: 1406
+Ranking: 492, Clube: FC Famalicão, Score atual: 1436
+Ranking: 492, Clube: FC Famalicão, Score atual: 1436
+Ranking: 14, Clube: FC Porto, Score atual: 1831
+Ranking: 625, Clube: FC Vizela, Score atual: 1407
+Ranking: 1518, Clube: Feirense, Score atual: 1294
+Ranking: 262, Clube: Gil Vicente FC, Score atual: 1517
+Ranking: 1269, Clube: Leixões, Score atual: 1318
+Ranking: 752, Clube: Moreirense, Score atual: 1384
+Ranking: 1847, Clube: Nacional, Score atual: 1268
+Ranking: 1090, Clube: Naval 1º de Maio, Score atual: 1337
+Ranking: 1158, Clube: Olhanense, Score atual: 1329
+Ranking: 442, Clube: Paços de Ferreira, Score atual: 1448
+Ranking: 1479, Clube: Penafiel, Score atual: 1298
+Ranking: 745, Clube: Portimonense, Score atual: 1385
+Ranking: 464, Clube: Rio Ave, Score atual: 1443
+Ranking: 464, Clube: Rio Ave, Score atual: 1443
+Ranking: 731, Clube: SC Farense, Score atual: 1387
+Ranking: 20, Clube: Sporting, Score atual: 1797
+Ranking: 951, Clube: Tondela, Score atual: 1353
+Ranking: 976, Clube: Uniao da Madeira, Score atual: 1350
+Ranking: 1598, Clube: União de Leiria, Score atual: 1288
+Ranking: 361, Clube: Vitória Guimarães, Score atual: 1471
+Ranking: 815, Clube: Vitória Setúbal, Score atual: 1371
