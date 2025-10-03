@@ -1,3 +1,3 @@
-# 📘 Introdução à Arquitetura de Computadores
+# 📘 Fundamentos de Programação
 
 ✅ **Resultado:** Aprovado com **17 valores** 
